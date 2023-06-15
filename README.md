@@ -16,7 +16,7 @@ We are C23-PS079 product-based capstone project team, consisting of 6 members in
  - A159DSX2275 – Christopher Tekvi Leonard
 <br><br>
 ## About The Project
-//Acne is a common skin condition that affects millions of people worldwide, impacting their self-esteem, mental well-being, and overall quality of life. With the Machine Learning on AnceFy, we can identify acne level severity just using the image capture on our face skin. The results is classifying our acne severity level then gives us various local skincare products and treatments available.
+Acne is a common skin condition that affects millions of people worldwide, impacting their self-esteem, mental well-being, and overall quality of life. With the Machine Learning on AnceFy, we can identify acne level severity just using the image capture on our face skin. The results is classifying our acne severity level then gives us various local skincare products and treatments available.
 
 ## The Project Scope
 Part of each learning path: 
